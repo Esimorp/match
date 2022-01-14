@@ -1,6 +1,6 @@
 const Battle = (props = {}) => {
     let players = props.players;
-    let name11, name12, name21, name22 = "111";
+    let name11= "", name12= "", name21= "", name22 = "";
     if (players) {
         name11 = players[0][0].name
         name12 = players[0][1].name

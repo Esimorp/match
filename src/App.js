@@ -105,12 +105,12 @@ function App() {
                     <Battle/>
                     <Battle/>
                 </div>
-                <div className={"roundName"}>
-                    <h2>轮空:</h2>
-                </div>
-                <div className={"empty-round"}>
-                    <div>111/222</div>
-                </div>
+                {/*<div className={"roundName"}>*/}
+                {/*    <h2>轮空:</h2>*/}
+                {/*</div>*/}
+                {/*<div className={"empty-round"}>*/}
+                {/*    <div>111/222</div>*/}
+                {/*</div>*/}
             </div>
         </div>
     );
